@@ -1,0 +1,6 @@
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\bin\Debug\NetSyncObserver.exe.config
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\bin\Debug\NetSyncObserver.exe
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\bin\Debug\NetSyncObserver.pdb
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\obj\x86\Debug\NetSyncObserver.exe
+C:\Users\Ben\Google Drive\NetSync\NetSyncObserver\NetSyncObserver\obj\x86\Debug\NetSyncObserver.pdb
