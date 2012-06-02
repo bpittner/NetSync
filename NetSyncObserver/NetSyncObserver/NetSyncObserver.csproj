@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConsoleActions.cs" />
-    <Compile Include="DirectoryMirrorActions.cs" />
+    <Compile Include="MirrorActions.cs" />
     <Compile Include="DirectoryObserver.cs" />
     <Compile Include="FileFactory.cs" />
     <Compile Include="IObserverActions.cs" />

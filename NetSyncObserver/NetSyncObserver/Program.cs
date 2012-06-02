@@ -13,7 +13,7 @@ namespace NetSyncObserver
         {
             String srcDir = ConfigurationManager.AppSettings["SourceDirectory"];
             String destDir = ConfigurationManager.AppSettings["DestinationDirectory"];
-            DirectoryObserver o = new DirectoryObserver(srcDir, new DirectoryMirrorActions(destDir));
+            DirectoryObserver o = new DirectoryObserver(srcDir, new MirrorActions(destDir));
 
             Console.ReadLine();
         }
