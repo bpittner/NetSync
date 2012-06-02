@@ -1,3 +1,1 @@
-Useful Information
-
-OH HEY BEN PITTNER
+NetSync is a (very) basic .NET file synchronization system. It revolves around the .NET platform's FileSystemWatcher, and allows an observed directory to be constantly synced (backed up) in another directory (either local or remote).
